@@ -1,0 +1,4 @@
+*.user
+*.spec
+icon/*.aux
+icon/*.log
